@@ -7,4 +7,5 @@ gemspec
 
 group :development do
   gem 'guard-test'
+  gem "shoulda"
 end
