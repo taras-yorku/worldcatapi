@@ -1,3 +1,3 @@
-require "worldcatapi"
+require "WOLDCATAPI"
 require "test/unit"
 require "shoulda"

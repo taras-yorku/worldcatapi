@@ -6,7 +6,7 @@ The RUBY API to access WorldCat.org webservices. Inspired by original wcapi impl
 
 # Worldcatapi
 
-TODO: Write a gem description
+Forked from RubyForge WCAPI project. 
 
 ## Installation
 
