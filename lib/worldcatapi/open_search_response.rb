@@ -9,7 +9,7 @@ module WORLDCATAPI
       if doc.index('rss')
         parse_rss(doc)
       else
-	parse_atom(doc)
+	       parse_atom(doc)
       end
     end
 

@@ -25,7 +25,7 @@ module WORLDCATAPI
     
     def initialize(options={})
       @debug = options[:debug]
-      @wskey = options[:wskey]
+      @wskey = options[:key]
     end
 
     # Equivalent to a Identify request. You'll get back a OAI::IdentifyResponse

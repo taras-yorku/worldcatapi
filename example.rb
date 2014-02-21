@@ -1,7 +1,11 @@
 require 'rubygems'
 require 'worldcatapi'
 
-client = WORLDCATAPI::Client.new :wskey => 'YOUR KEY'
+@key = ENV["WORLDCAT_KEY"]
+
+puts "KEY=#{@key}"
+
+client = WORLDCATAPI::Client.new(key: @key, debug: true)
 
 response = client.OpenSearch(:q=>'building digital libraries', :format=>'atom', :start => '1', :count => '25', :cformat => 'all')
 
