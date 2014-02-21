@@ -1,7 +1,7 @@
 require 'rubygems'
 require 'worldcatapi'
 
-client = WORLDCATAPI::Client.new :wskey => 'iSUYsM7SSdnK7yZUPZO7hY04gSKBM61yMjcsQwV8g2sQRSmAtWIUkx07qPmZKvRQaHVi8Lag1yBMvnfb'
+client = WORLDCATAPI::Client.new :wskey => 'YOUR KEY'
 
 response = client.OpenSearch(:q=>'building digital libraries', :format=>'atom', :start => '1', :count => '25', :cformat => 'all')
 
