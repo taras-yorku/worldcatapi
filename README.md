@@ -1,4 +1,4 @@
-worldcat-api
+worldcatapi
 ============
 
 The RUBY API to access WorldCat.org webservices. Inspired by original wcapi implementation
@@ -6,7 +6,7 @@ The RUBY API to access WorldCat.org webservices. Inspired by original wcapi impl
 
 # Worldcatapi
 
-Forked from RubyForge WCAPI project. 
+Forked from RubyForge WCAPI project. It now lives on rubygems.org for easy installation and usage. 
 
 ## Installation
 
@@ -24,7 +24,22 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Clone this project and look at example.rb file.
+
+It outlines all of the available operations.
+
+    client = WORLDCATAPI::Client.new key: YOUR_KEY
+    response = client.OpenSearch(q: 'Ruby Development', format: 'atom', start: 1, count: 20, cformat: "all")
+    
+    puts "Total Results #{response.header["totalResults"]
+    response.records.each do |record| 
+        puts "title: #{record[:title]}\n"
+        puts "url: #{record[:link]}\n"
+        puts "authors: #{record[:author].join(", "}\n"
+        puts "description: #{record[:summary]}\n"
+    end
+
+More examples available in example.rb
 
 ## Contributing
 
