@@ -24,7 +24,9 @@ module WORLDCATAPI
       doc = Nokogiri::XML(xml)
       doc.remove_namespaces!
       nodes = doc.xpath("/record")
-      puts "NODE Count: " + nodes.length.to_s
+      
+      # puts "NODE Count: " + nodes.length.to_s
+      
       nodes.each { |item |
 	 _title = item.xpath("datafield[@tag='245']/subfield[@code='a'][position()=1]").text
 	 
