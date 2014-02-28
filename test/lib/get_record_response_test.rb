@@ -12,9 +12,16 @@ class GetRecordResponseTest  < Test::Unit::TestCase
     assert_not_nil response.record, "Record was created"
     
     record = response.record
-    assert_equal record.title, "Julius Caesar"
-    assert_equal record.id, "671660984"
-    assert_equal record.author.size, 1, "Only one author"
-    assert_equal record.author.first, "Shakespeare, William"
+    assert_equal "Julius Caesar", record.title, "Title must match"
+    assert_equal "671660984", record.id, "Id must match"
+    
+    assert_equal 1, record.author.size, "Only one author"
+    assert_equal "Shakespeare, William,", record.author.first, "Author must match"
+    assert_equal "9781775413158 (electronic bk.)", record.isbn, "ISBN must match"
+    assert_equal "[Waiheke Island] :Floating Press,c2008.", record.publisher, "Publisher must match"
+    assert_equal "1 online resource (182 p.)", record.physical_description, "PhysDesc must match"
+    assert_equal "Title from PDF title page (viewed Oct. 25, 2010).", record.summary, "Summary must match"
+        
+    assert_not_nil record.xml, "Should copy xml"
   end
 end
