@@ -25,8 +25,16 @@ puts "\n\n\n"
 puts "Get Record Test: " + "\n\n"
 record = client.GetRecord(:type => "oclc", :id => "15550774")
 
-puts record.record[:title] + "\n"
-puts record.record[:link] + "\n"
+puts record.record.id + "\n"
+puts record.record.title + "\n"
+puts record.record.author + "\n"
+puts record.record.summary + "\n"
+puts record.record.publisher + "\n"
+puts record.record.published_date + "\n"
+puts record.record.edition + "\n"
+puts record.record.physical_description + "\n"
+puts record.record.isbn + "\n"
+puts record.record.link + "\n"
 
 puts "\n\n\n"
 puts "Get Location Test: " + "\n\n"
