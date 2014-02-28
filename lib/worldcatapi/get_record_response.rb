@@ -36,6 +36,7 @@ module WORLDCATAPI
         @record.link = "http://www.worldcat.org/oclc/#{@record.id}"
         @record.isbn = r['020']['a']
         @record.publisher = r['260'].value
+        @record.published_date = r['260']['c']
         @record.edition = r['250']['a'] if r['250']
         @record.physical_description = r['300'].value
         
