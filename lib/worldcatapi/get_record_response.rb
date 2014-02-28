@@ -1,3 +1,5 @@
+require 'ostruct'
+
 module WORLDCATAPI
   class GetRecordResponse 
 
@@ -58,7 +60,7 @@ module WORLDCATAPI
          _rechash = {:title => _title, :author => _author, :link => _link, :id => _id, :citation => _citation, 
 		     :summary => _summary, :xml => item.to_s}
       }
-      @record = _rechash
+      @record = OpenStruct.new _rechash
    end
 
   end
