@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    worldcatapi (1.0.1)
+    worldcatapi (1.0.2)
       marc (~> 0.8.1)
       nokogiri (~> 1.5.7)
 

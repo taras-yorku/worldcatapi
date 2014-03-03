@@ -11,5 +11,10 @@ class SruSearchResponseTest  < Test::Unit::TestCase
     assert_not_nil response.records, "There are Records"
     assert_not_nil response.header, "There's a header"
     
+    # test header stuff
+    
+    assert response.records.size > 1, "there are more the one response records"
+    
+    
   end
 end
