@@ -4,7 +4,6 @@ module WORLDCATAPI
     attr_accessor :header, :records, :raw
 
     def initialize(doc)
-      #super doc
       @raw = doc
       parse_marcxml(doc)
     end

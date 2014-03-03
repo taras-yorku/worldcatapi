@@ -1,0 +1,1109 @@
+<searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/" xmlns:oclcterms="http://purl.org/oclc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<version>1.1</version>
+<numberOfRecords>430835</numberOfRecords>
+<records>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cgm a2200000Ia 4500</leader>
+    <controlfield tag="001">57408580</controlfield>
+    <controlfield tag="008">050112p20041989cau700            vleng d</controlfield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">1415702470</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9781415702475</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">0780638875 (set)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9780780638877 (set)</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="130">
+      <subfield code="a">Civil War (Television program)</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="4" tag="245">
+      <subfield code="a">The Civil War</subfield>
+      <subfield code="h">[videorecording] /</subfield>
+      <subfield code="c">a Florentine Films presentation ; a film by Ken Burns ; produced by Ken Burns and Ric Burns ; written by Geoffrey C. Ward and Ric Burns with Ken Burns ; produced in association with WETA-TV ; a production of Florentine Films.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">Burbank, CA :</subfield>
+      <subfield code="b">PBS Home Video :</subfield>
+      <subfield code="b">Distributed by Paramount Home Entertainment,</subfield>
+      <subfield code="c">2004.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">5 videodiscs (ca. 700 min.) :</subfield>
+      <subfield code="b">sd., col. with b&amp;w ;</subfield>
+      <subfield code="c">4 3/4 in.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="538">
+      <subfield code="a">DVD, NTSC; 5.1 surround sound, digitally remastered.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="546">
+      <subfield code="a">Closed-captioned.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Originally broadcast as a television mini-series in 1990; produced in 1989.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Special features, disc 1: behind-the-scenes: "The Civil War Reconstruction" ; commentary track by Ken Burns ; interviews with George Will, Shelby Foote and Stanley Crouch ; biography cards and battlefield maps.</subfield>
+    </datafield>
+    <datafield ind1="8" ind2=" " tag="521">
+      <subfield code="a">MPAA rating: Not rated.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="520">
+      <subfield code="a">An epic documentary bringing life to America's most destructive - and defining - conflict. Here is the saga of celebrated generals and the ordinary soldiers. A heroic and transcendent president and a country that had to divide itself in two in order to become one again.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="505">
+      <subfield code="g">disc 1. Episode one :</subfield>
+      <subfield code="t">the Cause (1861) --</subfield>
+      <subfield code="g">disc 2. Episodes two and three :</subfield>
+      <subfield code="t">A Very Bloody Affair, Forever Free (1862) --</subfield>
+      <subfield code="g">disc 3. Episodes four and five :</subfield>
+      <subfield code="t">Simply Murder,</subfield>
+      <subfield code="t">the Universe of Battle (1863) --</subfield>
+      <subfield code="g">disc 4. Episodes six and seven :</subfield>
+      <subfield code="t">Valley of the Shadow of Death,</subfield>
+      <subfield code="t">Most Hallowed Ground (1864) --</subfield>
+      <subfield code="g">disc 5. Episodes eight and nine :</subfield>
+      <subfield code="t">War is All Hell,</subfield>
+      <subfield code="t">the Better Angles of Our Nature (1865).</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="586">
+      <subfield code="a">Emmy Awards, 1991: Emmy Outstanding Individual Achievement - Informational Programming (Geoffrey C. Ward (writer), Ric Burns (writer), Ken Burns (writer) - For episode #9: "The Better Angels Of Our Nature") ; Outstanding Informational Series (Ken Burns (producer), Ric Burns (producer), Stephen Ives (co-producer), Julie Dunfey (co-producer), Mike Hill (co-producer), Catherine Eisele (coordinating producer) - For episode #5 "The Universe Of Battle").</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="651">
+      <subfield code="a">United States</subfield>
+      <subfield code="x">History</subfield>
+      <subfield code="y">Civil War, 1861-1865.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="651">
+      <subfield code="a">Confederate States of America</subfield>
+      <subfield code="x">History, Military.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Military art and science</subfield>
+      <subfield code="x">History.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="600">
+      <subfield code="a">Lincoln, Abraham,</subfield>
+      <subfield code="d">1809-1865.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Bull Run, 1st Battle of, Va., 1861.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="655">
+      <subfield code="a">DVD-Video discs.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="4" tag="655">
+      <subfield code="a">Television programs</subfield>
+      <subfield code="z">United States.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Historical television programs.</subfield>
+      <subfield code="2">lcgft</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Documentary television programs.</subfield>
+      <subfield code="2">lcgft</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Nonfiction television programs.</subfield>
+      <subfield code="2">lcgft</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Television mini-series.</subfield>
+      <subfield code="2">lcgft</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Video recordings for the hearing impaired.</subfield>
+      <subfield code="2">lcgft</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Burns, Ken,</subfield>
+      <subfield code="d">1953-</subfield>
+      <subfield code="4">pro</subfield>
+      <subfield code="4">drt</subfield>
+      <subfield code="4">aus</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Ward, Geoffrey C.</subfield>
+      <subfield code="4">aus</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Burns, Ric.</subfield>
+      <subfield code="4">pro</subfield>
+      <subfield code="4">aus</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">McCullough, David G.</subfield>
+      <subfield code="4">nrt</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Dewhurst, Colleen.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Fishburne, Laurence,</subfield>
+      <subfield code="d">1961-</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Freeman, Morgan.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Irons, Jeremy,</subfield>
+      <subfield code="d">1948-</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Jacobi, Derek.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Robards, Jason.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Waterston, Sam.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Axton, Hoyt.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Shaw, Bruce.</subfield>
+      <subfield code="4">flm</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="710">
+      <subfield code="a">Florentine Films.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="710">
+      <subfield code="a">WETA-TV (Television station : Washington, D.C.)</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="710">
+      <subfield code="a">PBS Home Video.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="710">
+      <subfield code="a">Paramount Home Entertainment (Firm)</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a22000001  4500</leader>
+    <controlfield tag="001">1034667</controlfield>
+    <controlfield tag="008">810715s1969    dcuab    b    000 0 eng  </controlfield>
+    <datafield ind1=" " ind2=" " tag="010">
+      <subfield code="a">   76094656 </subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Jordan, Robert Paul.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="4" tag="245">
+      <subfield code="a">The Civil War.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">[Washington]</subfield>
+      <subfield code="b">National Geographic Society</subfield>
+      <subfield code="c">[1969]</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">215 p.</subfield>
+      <subfield code="b">illus. (part col.), col. maps. (1 fold. in pocket)</subfield>
+      <subfield code="c">27 cm.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">"Produced by the National Geographical Special Publications Division."</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="520">
+      <subfield code="a">Personalized portrait and pictorial chronicle of the men and events, campaigns and battlefields of the American Civil War.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="505">
+      <subfield code="a">1820-1860: the years of compromise -- 1861: battles for the border -- 1862: year of lost victories -- 1863: war stalks the land -- 1864: design for desolation -- 1965: an end and a beginning.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="651">
+      <subfield code="a">United States</subfield>
+      <subfield code="x">History</subfield>
+      <subfield code="y">Civil War, 1861-1865.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="2" tag="650">
+      <subfield code="a">American Civil War.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2="2" tag="650">
+      <subfield code="a">History, 19th Century</subfield>
+      <subfield code="z">United States.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="651">
+      <subfield code="a">United States</subfield>
+      <subfield code="x">History</subfield>
+      <subfield code="y">Civil War, 1861-1865</subfield>
+      <subfield code="v">Juvenile literature.</subfield>
+    </datafield>
+    <datafield ind1="2" ind2="6" tag="610">
+      <subfield code="a">National Geographic Society, Washington, D.C.</subfield>
+      <subfield code="b">Special Publications Division.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="6" tag="651">
+      <subfield code="a">États-Unis</subfield>
+      <subfield code="x">Histoire</subfield>
+      <subfield code="y">1861-1865 (Guerre de Sécession)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="6" tag="651">
+      <subfield code="a">États-Unis</subfield>
+      <subfield code="x">Histoire</subfield>
+      <subfield code="y">1861-1865 (Guerre de Sécession)</subfield>
+      <subfield code="x">Ouvrages illustrés.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="4" tag="650">
+      <subfield code="a">National Geographic Society, Washington D.C., Publication Division.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">History.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01411628</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Juvenile works.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01411637</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">United States.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01204155</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="710">
+      <subfield code="a">National Geographic Society (U.S.).</subfield>
+      <subfield code="b">Special Publications Division.</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000Ja 4500</leader>
+    <controlfield tag="001">43487214</controlfield>
+    <controlfield tag="008">000106s2000    nyuab  j      001 0 eng  </controlfield>
+    <datafield ind1=" " ind2=" " tag="010">
+      <subfield code="a">   00020431 </subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">078946988X (lib.)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9780789469885 (lib.)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">0789463024</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9780789463029</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">0789486466</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9780789486462</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">0751313653</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9780751313659</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9780756696917</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">0756696917</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9780756672683</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">0756672686</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Stanchak, John E.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Civil War /</subfield>
+      <subfield code="c">written by John Stanchak.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="250">
+      <subfield code="a">1st American ed.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">New York :</subfield>
+      <subfield code="b">Dorling Kindersley Pub.,</subfield>
+      <subfield code="c">c2000.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">64 p. :</subfield>
+      <subfield code="b">ill. (some col.), 1 col. map ;</subfield>
+      <subfield code="c">29 cm.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="490">
+      <subfield code="a">DK eyewitness books</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Gift of Kappa Delta Pi, Alpha Delta Omega Chapter International Honor Society in Education</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Includes index.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="505">
+      <subfield code="a">Long argument -- Slave life -- Election of 1860 -- Underground Railroad -- Secession -- Raising armies -- Everyone's war -- Women at war -- Young and the old -- Outfitting armies -- Bull Run -- Sick and wounded -- Great commanders -- Arming soldiers -- Black volunteers -- Horsemen -- Army camp life -- Field artillery -- Gettysburg -- Siege of Vicksburg -- Northern life  -- Confederate culture -- War on the water -- Secret war -- March to the Sea -- Confederacy surrenders -- Fates of two leaders -- Life of freedom -- New era begins -- Index.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="520">
+      <subfield code="a">Examines many aspects of the Civil War, including the issue of slavery, secession, the raising of armies, individual battles, the commanders, Northern life, Confederate culture, the surrender of the South, and the aftermath.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="651">
+      <subfield code="a">United States</subfield>
+      <subfield code="x">History</subfield>
+      <subfield code="y">Civil War, 1861-1865</subfield>
+      <subfield code="v">Juvenile literature.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="1" tag="651">
+      <subfield code="a">United States</subfield>
+      <subfield code="x">History</subfield>
+      <subfield code="y">Civil War, 1861-1865.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">History.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01411628</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Juvenile works.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01411637</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">United States.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01204155</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000 a 4500</leader>
+    <controlfield tag="001">395987</controlfield>
+    <controlfield tag="008">730109s1961    nyuabf   b    001 0 eng  </controlfield>
+    <datafield ind1=" " ind2=" " tag="010">
+      <subfield code="a">   61006177 </subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Thomas, Hugh,</subfield>
+      <subfield code="d">1931-</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="4" tag="245">
+      <subfield code="a">The Spanish Civil War /</subfield>
+      <subfield code="c">Hugh Thomas.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">New York :</subfield>
+      <subfield code="b">Harper &amp; Brothers,</subfield>
+      <subfield code="c">c1961.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">xxix, 720 p., [16] p. of plates :</subfield>
+      <subfield code="b">ill., maps ;</subfield>
+      <subfield code="c">23 cm.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="490">
+      <subfield code="a">Harper Colophon books</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="505">
+      <subfield code="a">Origins of the war -- Rising and revolution -- European embroilment -- Siege of Madrid -- War of attrition December 1937-November 1938 -- End of the war -- Appendix I. Economics of Spain -- Appendix II. Casualties of the war -- Appendix III. Foreign intervention in the Spanish War</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="651">
+      <subfield code="a">Spain</subfield>
+      <subfield code="x">History</subfield>
+      <subfield code="y">Civil War, 1936-1939.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="6" tag="651">
+      <subfield code="a">Espagne</subfield>
+      <subfield code="x">Histoire</subfield>
+      <subfield code="y">1936-1939 (Guerre civile)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">History.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01411628</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">Spain.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01204303</subfield>
+    </datafield>
+    <datafield ind1="2" ind2=" " tag="710">
+      <subfield code="a">Paul Avrich Collection (Library of Congress)</subfield>
+      <subfield code="5">DLC</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000   4500</leader>
+    <controlfield tag="001">197955</controlfield>
+    <controlfield tag="008">711014s1971    nyua          001 0 eng  </controlfield>
+    <datafield ind1=" " ind2=" " tag="010">
+      <subfield code="a">   77119671 </subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">007010266X</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9780070102668</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">0070102651</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9780070102651</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Catton, Bruce,</subfield>
+      <subfield code="d">1899-1978.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="4" tag="245">
+      <subfield code="a">The Civil War.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">New York,</subfield>
+      <subfield code="b">American Heritage Press</subfield>
+      <subfield code="c">[1971]</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">341 p.</subfield>
+      <subfield code="b">illus.</subfield>
+      <subfield code="c">23 cm.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Narrative portion of the work first published in 1960 under title: The American heritage picture history of the Civil War.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="505">
+      <subfield code="a">A house divided -- The opening guns -- The clash of amateur armies -- Real warfare begins -- The navies -- Confederate high-water mark -- A search for allies -- Stalemate, East and West -- The South's last opportunity -- The armies -- Two economies at war -- The destruction of slavery -- The Northern vise tightens  -- The politics of war -- Total warfare -- The forlorn hope -- Victory -- End and beginning -- A sound of distant drums -- The leading participants.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="651">
+      <subfield code="a">United States</subfield>
+      <subfield code="x">History</subfield>
+      <subfield code="y">Civil War, 1861-1865.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">History.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01411628</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">United States.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01204155</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Catton, Bruce,</subfield>
+      <subfield code="d">1899-1978.</subfield>
+      <subfield code="t">American heritage picture history of the Civil War.</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000 a 4500</leader>
+    <controlfield tag="001">8114241</controlfield>
+    <controlfield tag="008">811217s1982    nyu      b    000 1 eng  </controlfield>
+    <datafield ind1=" " ind2=" " tag="010">
+      <subfield code="a">   81022419 </subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">0393013456</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9780393013450</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">0380641135 (pbk.)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9780380641130 (pbk.)</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Crane, Stephen,</subfield>
+      <subfield code="d">1871-1900.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="4" tag="245">
+      <subfield code="a">The red badge of courage :</subfield>
+      <subfield code="b">an episode of the American Civil War /</subfield>
+      <subfield code="c">Stephen Crane ; newly edited from Crane's original manuscript by Henry Binder.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">New York :</subfield>
+      <subfield code="b">Norton,</subfield>
+      <subfield code="c">c1982.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">ix, 173 p. ;</subfield>
+      <subfield code="c">22 cm.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="520">
+      <subfield code="a">This stirring tale of action in the American Civil War captures the immediacies and experiences of actual battle and army life.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="651">
+      <subfield code="a">Virginia</subfield>
+      <subfield code="x">History</subfield>
+      <subfield code="y">Civil War, 1861-1865</subfield>
+      <subfield code="v">Fiction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Chancellorsville, Battle of, Chancellorsville, Va., 1863</subfield>
+      <subfield code="v">Fiction.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="650">
+      <subfield code="a">Sezessionskrieg (1861-1865)</subfield>
+      <subfield code="2">swd</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="650">
+      <subfield code="a">Belletristische Darstellung.</subfield>
+      <subfield code="2">swd</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="4" tag="655">
+      <subfield code="a">Belletristische Darstellung.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="4" tag="655">
+      <subfield code="a">Historical fiction.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="4" tag="655">
+      <subfield code="a">War stories.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">War stories.</subfield>
+      <subfield code="2">gsafd</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Historical fiction.</subfield>
+      <subfield code="2">gsafd</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Fiction.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01423787</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">History.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01411628</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">Virginia.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01204597</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">Virginia</subfield>
+      <subfield code="z">Chancellorsville.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01229917</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Binder, Henry.</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000 a 4500</leader>
+    <controlfield tag="001">15550774</controlfield>
+    <controlfield tag="008">870402s1988    nyuabf   b    001 0 eng  </controlfield>
+    <datafield ind1=" " ind2=" " tag="010">
+      <subfield code="a">   87011045 </subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">0195038630 (alk. paper)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9780195038637 (alk. paper)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9780195168952</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">019516895X</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">McPherson, James M.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Battle cry of freedom :</subfield>
+      <subfield code="b">the Civil War era /</subfield>
+      <subfield code="c">James M. McPherson.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">New York :</subfield>
+      <subfield code="b">Oxford University Press,</subfield>
+      <subfield code="c">1988.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">xix, 909 p., [16] p. of plates :</subfield>
+      <subfield code="b">ill., maps, ports. ;</subfield>
+      <subfield code="c">25 cm.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="490">
+      <subfield code="a">The Oxford history of the United States ;</subfield>
+      <subfield code="v">v. 6</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="520">
+      <subfield code="a">Filled with fresh interpretations and information, puncturing old myths and challenging new ones, this fast-paced narrative fully integrates the political, social, and military events that crowded the two decades from the outbreak of one war in Mexico to the ending of another at Appomattox. Packed with drama and analytical insight, the book vividly recounts the momentous episodes that preceded the Civil War: the Dred Scott decision, the Lincoln-Douglas debates, John Brown's raid on Harper's Ferry. It then moves into a chronicle of the war itself, the battles, the strategic maneuvering on both sides, the politics, and the personalities. Particularly notable are new views on such matters as the slavery expansion issue in the 1850s, the origins of the Republican Party, the causes of secession, internal dissent and anti-war opposition in the North and the South, and the reasons for the Union's victory. The book's title refers to the sentiments that informed both the Northern and Southern views of the conflict: the South seceded in the name of that freedom of self-determination and self-government for which their fathers had fought in 1776, while the North stood fast in defense of the Union founded by those fathers as the bulwark of American liberty. Eventually, the North had to grapple with the underlying cause of the war, slavery, and adopt a policy of emancipation as a second war aim. This "new birth of freedom," as Lincoln called it, constitutes the proudest legacy of America's bloodiest conflict. This volume makes sense of that vast and confusing "second American Revolution" we call the Civil War, a war that transformed a nation and expanded our heritage of liberty.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="586">
+      <subfield code="a">Pulitzer Prize, History, 1989.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="505">
+      <subfield code="a">From the Halls of Montezuma -- The United States at midcentury -- Mexico will poison us -- An empire for slavery -- Slavery, rum, and Romanism -- The crime against Kansas -- Mudsills and greasy mechanics for A. Lincoln -- The Revolution of 1860 -- The counterrevolution of 1861 -- Facing both ways: the upper south's dilemma -- Amateurs go to war -- Farewell to the Ninety Days' War -- Blockade and beachhead: the Salt-water War, 1861-1862 -- The River War in 1862 -- The sinews of war -- Billy Yank's chickahominy blues -- We must free the slaves or be ourselves subdued -- Carry me back to old Virginny -- John Bull's Virginia reel -- Three rivers in winter, 1862-1863 -- Fire in the rear -- Long remember: the summer of '63 -- Johnny Reb's Chattanooga blues -- When this cruel war is over -- If it takes all summer -- After four years of failure -- We are going to be wiped off the earth -- South Carolina must be destroyed -- We are all Americans -- To the shoals of victory</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="651">
+      <subfield code="a">United States</subfield>
+      <subfield code="x">History</subfield>
+      <subfield code="y">Civil War, 1861-1865</subfield>
+      <subfield code="x">Campaigns.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="651">
+      <subfield code="a">United States</subfield>
+      <subfield code="x">History</subfield>
+      <subfield code="y">Civil War, 1861-1865.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="6" tag="651">
+      <subfield code="a">États-Unis</subfield>
+      <subfield code="x">Histoire</subfield>
+      <subfield code="y">1861-1865 (Guerre de Sécession)</subfield>
+      <subfield code="x">Campagnes et batailles.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="6" tag="651">
+      <subfield code="a">États-Unis</subfield>
+      <subfield code="x">Histoire</subfield>
+      <subfield code="y">1861-1865 (Guerre de Sécession)</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="7" tag="650">
+      <subfield code="a">Amerikaanse burgeroorlog.</subfield>
+      <subfield code="2">gtt</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">États-Unis</subfield>
+      <subfield code="y">1861-1865 (Guerre de Sécession)</subfield>
+      <subfield code="x">Campagnes militaires.</subfield>
+      <subfield code="2">ram</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="7" tag="650">
+      <subfield code="a">Sezessionskrieg &lt;1861-1865&gt;</subfield>
+      <subfield code="2">swd</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="4" tag="651">
+      <subfield code="a">United States</subfield>
+      <subfield code="x">History</subfield>
+      <subfield code="y">1861-1865, Civil War.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="4" tag="651">
+      <subfield code="a">United States</subfield>
+      <subfield code="x">History</subfield>
+      <subfield code="y">1861-1865, Civil War</subfield>
+      <subfield code="x">Campaigns.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">History.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01411628</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Military campaigns.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01710190</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">United States.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01204155</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="2" tag="856">
+      <subfield code="3">Contributor biographical information</subfield>
+      <subfield code="u">http://catdir.loc.gov/catdir/enhancements/fy0725/87011045-b.html</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="2" tag="856">
+      <subfield code="3">Publisher description</subfield>
+      <subfield code="u">http://catdir.loc.gov/catdir/enhancements/fy0603/87011045-d.html</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="2" tag="856">
+      <subfield code="u">http://www.gbv.de/dms/bowker/toc/9780195038637.pdf</subfield>
+      <subfield code="3">Inhaltsverzeichnis</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000 a 4500</leader>
+    <controlfield tag="001">24247339</controlfield>
+    <controlfield tag="008">910725s1992    enkb     b    001 0 eng  </controlfield>
+    <datafield ind1=" " ind2=" " tag="010">
+      <subfield code="a">   91026248 </subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">0198144857</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9780198144854</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="041">
+      <subfield code="a">eng</subfield>
+      <subfield code="h">lat</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="100">
+      <subfield code="a">Lucan,</subfield>
+      <subfield code="d">39-65.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="240">
+      <subfield code="a">Pharsalia.</subfield>
+      <subfield code="l">English</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Civil war /</subfield>
+      <subfield code="c">Lucan ; translated with introduction and notes by S.H. Braund.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">Oxford :</subfield>
+      <subfield code="b">Clarendon Press ;</subfield>
+      <subfield code="a">New York :</subfield>
+      <subfield code="b">Oxford University Press,</subfield>
+      <subfield code="c">1992.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">lvi, 335 p. :</subfield>
+      <subfield code="b">maps ;</subfield>
+      <subfield code="c">23 cm.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Originally in Latin.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Epic poetry, Latin</subfield>
+      <subfield code="v">Translations into English.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="651">
+      <subfield code="a">Rome</subfield>
+      <subfield code="x">History</subfield>
+      <subfield code="y">Civil War, 49-45 B.C.</subfield>
+      <subfield code="v">Poetry.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="650">
+      <subfield code="a">Pharsalus, Battle of, Farsala, Greece, 48 B.C.</subfield>
+      <subfield code="v">Poetry.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">History.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01411628</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Poetry.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01423828</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Translations.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01423791</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="650">
+      <subfield code="a">Epic poetry, Latin.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst00913954</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">Greece</subfield>
+      <subfield code="z">Farsala.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01296353</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">Rome (Empire)</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01204885</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Braund, Susanna Morton.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="740">
+      <subfield code="a">Civil War.</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="2" tag="856">
+      <subfield code="3">Publisher description</subfield>
+      <subfield code="u">http://catdir.loc.gov/catdir/enhancements/fy0637/91026248-d.html</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000 a 4500</leader>
+    <controlfield tag="001">21160298</controlfield>
+    <controlfield tag="008">890927s1990    nyuab    b    001 0 eng  </controlfield>
+    <datafield ind1=" " ind2=" " tag="010">
+      <subfield code="a">   89043475 </subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">0394562852</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9780394562858</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">0370315502</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9780370315508</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">0679742778</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9780679742777</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Ward, Geoffrey C.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="4" tag="245">
+      <subfield code="a">The Civil War :</subfield>
+      <subfield code="b">an illustrated history /</subfield>
+      <subfield code="c">narrative by Geoffrey C. Ward ; based on a documentary filmscript by Geoffrey C. Ward, Ric Burns, and Ken Burns ; with contributions by Don E. Fehrenbacher ... [et al.].</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="250">
+      <subfield code="a">1st ed.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">New York :</subfield>
+      <subfield code="b">Knopf,</subfield>
+      <subfield code="c">1990.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">xix, 425 p. :</subfield>
+      <subfield code="b">ill. (some col.), col. maps ;</subfield>
+      <subfield code="c">29 cm.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2=" " tag="505">
+      <subfield code="a">Introduction: The crossroads of our being -- 1861: A house divided -- Why the war came / Don E. Fehrenbacher -- 1862: Forever free -- Who freeds the slaves? / Barbara J. Fields -- 1863: The universe of battle -- Men at war: an interview with Shelby Foote -- 1864: Most hallowed ground -- War and politics / James M. McPherson -- 1865: The better angels of our nature -- What the war made us / C. Vann Woodward.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="520">
+      <subfield code="a">The complete text of the bestselling narrative history of the Civil War--based on the celebrated PBS television series. This non-illustrated edition interweaves the author's narrative with the voices of the men and women who lived through that cataclysmic trail of our nationhood, from Abraham Lincoln to ordinary foot soldiers. Includes essays by distinguished historians of the era.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="651">
+      <subfield code="a">United States</subfield>
+      <subfield code="x">History</subfield>
+      <subfield code="y">Civil War, 1861-1865</subfield>
+      <subfield code="v">Pictorial works.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="651">
+      <subfield code="a">United States</subfield>
+      <subfield code="x">History</subfield>
+      <subfield code="y">Civil War, 1861-1865.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="7" tag="650">
+      <subfield code="a">Amerikaanse burgeroorlog.</subfield>
+      <subfield code="2">gtt</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">États-Unis</subfield>
+      <subfield code="y">1861-1865 (Guerre de Sécession)</subfield>
+      <subfield code="2">ram</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">History.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01411628</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Pictorial works.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01423874</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">United States.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01204155</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Burns, Ken,</subfield>
+      <subfield code="d">1953-</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="700">
+      <subfield code="a">Burns, Ric.</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="1" tag="856">
+      <subfield code="3">Table of contents</subfield>
+      <subfield code="u">http://www.gbv.de/dms/bowker/toc/9780394562858.pdf</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="2" tag="856">
+      <subfield code="3">Contributor biographical information</subfield>
+      <subfield code="u">http://catdir.loc.gov/catdir/bios/random056/89043475.html</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="2" tag="856">
+      <subfield code="3">Publisher description</subfield>
+      <subfield code="u">http://catdir.loc.gov/catdir/description/random042/89043475.html</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+<record>
+<recordSchema>marcxml</recordSchema>
+<recordPacking>xml</recordPacking>
+<recordData>
+<record xmlns="http://www.loc.gov/MARC21/slim">
+    <leader>00000cam a2200000 a 4500</leader>
+    <controlfield tag="001">31971810</controlfield>
+    <controlfield tag="008">950117s1996    nyua   j      001 0 eng  </controlfield>
+    <datafield ind1=" " ind2=" " tag="010">
+      <subfield code="a">   95001507 </subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">0060260246</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9780060260248</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">0060260270 (lib. bdg.)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9780060260279 (lib. bdg.)</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">9780613336864</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="020">
+      <subfield code="a">0613336860</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="100">
+      <subfield code="a">Sandler, Martin W.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2="0" tag="245">
+      <subfield code="a">Civil War /</subfield>
+      <subfield code="c">by Martin W. Sandler ; introduction by James H. Billington, Librarian of Congress.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="250">
+      <subfield code="a">1st ed.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="260">
+      <subfield code="a">New York :</subfield>
+      <subfield code="b">HarperCollins Publishers,</subfield>
+      <subfield code="c">c1996.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="300">
+      <subfield code="a">91 p. :</subfield>
+      <subfield code="b">ill. (some col.) ;</subfield>
+      <subfield code="c">23 x 26 cm.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">"A Library of Congress book."</subfield>
+    </datafield>
+    <datafield ind1=" " ind2=" " tag="500">
+      <subfield code="a">Includes index.</subfield>
+    </datafield>
+    <datafield ind1="1" ind2=" " tag="520">
+      <subfield code="a">008 &amp; up.</subfield>
+    </datafield>
+    <datafield ind1="0" ind2="0" tag="505">
+      <subfield code="a">A Nation divided -- Preparing for battle -- A War we'll remember -- Soldier boys -- Face-to-face -- Camp life -- On land and on sea -- A Modern war -- Turning points -- Road to reconciliation.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="651">
+      <subfield code="a">United States</subfield>
+      <subfield code="x">History</subfield>
+      <subfield code="y">Civil War, 1861-1865</subfield>
+      <subfield code="v">Pictorial works</subfield>
+      <subfield code="v">Juvenile literature.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="0" tag="651">
+      <subfield code="a">United States</subfield>
+      <subfield code="x">History</subfield>
+      <subfield code="y">Civil War, 1861-1865</subfield>
+      <subfield code="v">Juvenile literature.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="1" tag="651">
+      <subfield code="a">United States</subfield>
+      <subfield code="x">History</subfield>
+      <subfield code="y">Civil War, 1861-1865.</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">History.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01411628</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Juvenile works.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01411637</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="655">
+      <subfield code="a">Pictorial works.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01423874</subfield>
+    </datafield>
+    <datafield ind1=" " ind2="7" tag="651">
+      <subfield code="a">United States.</subfield>
+      <subfield code="2">fast</subfield>
+      <subfield code="0">(OCoLC)fst01204155</subfield>
+    </datafield>
+    <datafield ind1="4" ind2="2" tag="856">
+      <subfield code="3">Publisher description</subfield>
+      <subfield code="u">http://catdir.loc.gov/catdir/description/hc041/95001507.html</subfield>
+    </datafield>
+  </record>
+</recordData>
+</record>
+</records>
+<nextRecordPosition>11</nextRecordPosition>
+<resultSetIdleTime/>
+<diagnostics xmlns:srw="http://www.loc.gov/zing/srw/">
+<diagnostic>
+<uri>info:srw/diagnostic/1/59</uri>
+<details/>
+<message>:Resources exhausted - partial results available(32)</message>
+</diagnostic>
+</diagnostics>
+<echoedSearchRetrieveRequest xmlns:srw="http://www.loc.gov/zing/srw/">
+<version>1.1</version>
+<query>"civil war"</query>
+<maximumRecords>10</maximumRecords>
+<recordPacking>xml</recordPacking>
+<startRecord>1</startRecord>
+<sortKeys>relevance</sortKeys>
+<wskey>iSUYsM7SSdnK7yZUPZO7hY04gSKBM61yMjcsQwV8g2sQRSmAtWIUkx07qPmZKvRQaHVi8Lag1yBMvnfb</wskey>
+</echoedSearchRetrieveRequest>
+</searchRetrieveResponse>

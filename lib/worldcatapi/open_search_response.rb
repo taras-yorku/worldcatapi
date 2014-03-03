@@ -9,11 +9,16 @@ module WORLDCATAPI
       if doc.index('rss')
         parse_rss(doc)
       else
-	       parse_atom(doc)
+	      parse_atom(doc)
       end
     end
+    
+    def parse_marcxml(doc)
+      puts doc.inspect
+      
+    end
 
-   def parse_rss(xml)
+    def parse_rss(xml)
       _title = ""
       #this is an array
       _author = Array.new()

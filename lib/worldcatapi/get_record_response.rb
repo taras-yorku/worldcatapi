@@ -13,17 +13,6 @@ module WORLDCATAPI
     end
 
    def parse_marcxml(xml)
-      _title = ""
-      #this is an array
-      _author = Array.new()
-      _link = ""
-      _id = ""
-      _citation = ""
-      _summary = ""
-      _xml = xml
-      _rechash = {}
-      _x = 0
-      
       
       reader = MARC::XMLReader.new(StringIO.new(xml))
       
