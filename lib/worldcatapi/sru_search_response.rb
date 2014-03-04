@@ -10,30 +10,18 @@ module WORLDCATAPI
     end
 
    def parse_marcxml(xml)
-     @header = {}
-     @records = Array.new
+      @header = OpenStruct.new
+      @records = Array.new
      
-      _title = ""
-      #this is an array
-      _author = Array.new()
-      _link = ""
-      _id = ""
-      _citation = ""
-      _summary = ""
-      _xml = xml
-      _rechash = {}
-      _records = Array.new()
-      _x = 0
-
       xml = xml.gsub('<?xml-stylesheet type="text/xsl" href="/webservices/catalog/xsl/searchRetrieveResponse.xsl"?>', "")
 
       doc = Nokogiri::XML(xml)
       doc.remove_namespaces!
-      @header["numberOfRecords"] = doc.xpath("//numberOfRecords").text
-      @header["recordSchema"] = doc.xpath("//recordSchema").text
-      @header["nextRecordPosition"] = doc.xpath("//nextRecordPosition").text
-      @header["maxiumumRecords"] = doc.xpath("//maximumRecords").text
-      @header["startRecord"] = doc.xpath("//startRecord").text
+      @header.numberOfRecords = doc.xpath("//numberOfRecords").text
+      @header.recordSchema = doc.xpath("//recordSchema").text
+      @header.nextRecordPosition = doc.xpath("//nextRecordPosition").text
+      @header.maxiumumRecords = doc.xpath("//maximumRecords").text
+      @header.startRecord = doc.xpath("//startRecord").text
  
  
       xml_records =  doc.xpath("//records/record/recordData/record").to_xml
@@ -44,54 +32,38 @@ module WORLDCATAPI
         record = OpenStruct.new
         record.id = r["001"].value
         record.title = r['245']['a']
-        #record.author = Array.new
-        #record.author.push r['100']['a'] if r['100']
-        record.summary = r['500']['a'] if r['500']
-        record.link = "http://www.worldcat.org/oclc/#{record.id}"
-        record.isbn = r['020']['a'] if r['020']
+        
+        record.author = Array.new        
+        if r['100']
+          record.author.push r['100']['a'] if r['100']
+        elsif
+          record.author = extract_multiple(r, '700', 'a')
+        end
+        
+        record.summary = extract_multiple(r,'500', 'a') if r['500']                        
+        record.isbn = extract_multiple(r, '020', 'a')
+        
         record.publisher = r['260'].value
         record.published_date = r['260']['c']
         record.edition = r['250']['a'] if r['250']
         record.physical_description = r['300'].value
+        
+        record.link = "http://www.worldcat.org/oclc/#{record.id}"  
         @records << record
       end
       
       @records
-      
-      
-      # nodes = doc.xpath("//records/record/recordData/record")
- #      nodes.each { |item |
- #         _title = item.xpath("datafield[@tag='245']/subfield[@code='a'][position()=1]").text
- #         if item.xpath("datafield[@tag='1*']") != nil 
- #            item.xpath("datafield[@tag='1*']/sufield[@code='a']").each { |i|
- #              _author.push(i.text)
- #           }
- #         end
- #         if item.xpath("datafield[@tag='7*']") != nil  
- #            item.xpath("datafield[@tag='7*']/sufield[@code='a']").each { |i|
- #              _author.push(i.text)
- #           }
- #         end
- # 
- #         if item.xpath("controlfield[@tag='001']") != nil 
- #           _id = item.xpath("controlfield[@tag='001'][position()=1]").text 
- #           _link = 'http://www.worldcat.org/oclc/' + _id.to_s
- #         end
- # 
- #         if item.xpath("datafield[@tag='520']") != nil
- #       _summary = item.xpath("datafield[@tag='520']/subfield[@code='a'][position()=1]").text
- #         else
- #            if item.xpath("datafield[@tag='500']") != nil
- #         _summary = item.xpath("datafield[@tag='500']/subfield[@code='a'][position()=1]").text
- #       end
- #    end
- # 
- #         _rechash = {:title => _title, :author => _author, :link => _link, :id => _id, :citation => _citation, 
- #          :summary => _summary, :xml => item.to_s}
- #   _records.push(_rechash)
- #      }
- #      @records = _records
    end
-
+   
+   
+   ## Extract Multiple fields for record
+   def extract_multiple(record, field, tag)
+     a = Array.new
+     record.fields(field).each do |field|
+       a.push field[tag]
+     end
+     return a
+   end
+   
   end
 end
