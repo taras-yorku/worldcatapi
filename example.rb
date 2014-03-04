@@ -59,6 +59,11 @@ puts "SRU Search Example: " + "\n\n"
 records = client.SRUSearch(:query => '"civil war"')
 puts "Total Records: " + records.header["numberOfRecords"] + "\n"
 records.records.each {|rec|
-  puts "Title: " + rec[:title] + "\n"
-  puts "URL: " + rec[:link] + "\n\n\n"
+  puts "Title: " + rec.title + "\n"
+  puts "URL: " + rec.link + "\n\n\n"
+  puts "Author" + rec.author.join(",") + "\n\n\n"
+  puts "ISBN" + rec.isbn.join(",") + "\n\n\n"
+  puts "Summary" + rec.summary.join(",") + "\n\n\n"
+  puts "Publisher" + rec.publisher + "\n\n\n\n"
+  puts "Published Date" + rec.published_date + "\n\n\n\n"
 }
