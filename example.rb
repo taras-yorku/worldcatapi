@@ -56,9 +56,9 @@ puts "\n\n"
 
 puts "\n\n\n"
 puts "SRU Search Example: " + "\n\n"
-records = client.SRUSearch(:query => '"civil war"')
-puts "Total Records: " + records.header["numberOfRecords"] + "\n"
-records.records.each {|rec|
+response = client.SRUSearch(:query => '"civil war"')
+puts "Total Records: " + response.header["numberOfRecords"] + "\n"
+response.records.each {|rec|
   puts "Title: " + rec.title + "\n"
   puts "URL: " + rec.link + "\n\n\n"
   puts "Author" + rec.author.join(",") + "\n\n\n"
