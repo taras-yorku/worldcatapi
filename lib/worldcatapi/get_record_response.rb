@@ -31,10 +31,10 @@ module WORLDCATAPI
         @record.summary = extract_multiple(r,'500', 'a') if r['500']                        
         @record.isbn = extract_multiple(r, '020', 'a')
         
-        @record.publisher = r['260'].value
-        @record.published_date = r['260']['c']
+        @record.publisher = r['260'].value if r['260']
+        @record.published_date = r['260']['c'] if r['260']
         @record.edition = r['250']['a'] if r['250']
-        @record.physical_description = r['300'].value
+        @record.physical_description = r['300'].value if r['300']
                 
         @record.link = "http://www.worldcat.org/oclc/#{@record.id}"  
       end
