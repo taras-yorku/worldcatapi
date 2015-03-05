@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["taras@danylak.com", 'terry.reese@oregonstate.edu']
   spec.description   = %q{Ruby API to access WorldCat Open Search webservice. Based on WCAPI Gem.}
   spec.summary       = %q{Ruby API to access WorldCat Open Search webserbice. Based on WCAPI Gem.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/tdak/worldcatapi"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
